@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\muhammed\My Games\Snake1\Snake1\Source.cpp(36,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\muhammed\My Games\Snake1\Snake1\Source.cpp(108,26): warning C4018: '<': signed/unsigned mismatch
+D:\muhammed\My Games\Snake1\Snake1\Source.cpp(127,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Snake1.vcxproj -> D:\muhammed\My Games\Snake1\Debug\Snake1.exe
